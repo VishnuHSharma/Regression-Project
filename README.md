@@ -9,3 +9,9 @@
 - Communicating Results
 
 #### The model was a simple regression model.
+#### The language is Python with the following packages
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Sklearn
